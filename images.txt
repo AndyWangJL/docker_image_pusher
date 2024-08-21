@@ -1,1 +1,4 @@
-sandbox
+tensorchord/pgvecto-rs:pg16-v0.3.0-alpha.2
+redis:6-alpine
+minio/minio:RELEASE.2024-06-04T19-20-08Z
+minio/mc:RELEASE.2024-04-29T09-56-05Z
